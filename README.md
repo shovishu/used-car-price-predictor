@@ -1,5 +1,5 @@
 # used-car-price-predictor
-This projects uses trained machine learning linear regression model to predict the price of the used cars and the model is impoted on the pychrm application creating a web app using flask,bootstrap,html for the designing of the webpage.
+This projects uses trained machine learning linear regression model to predict the price of the used cars and the model is imported on the pycharm application creating a web app using flask,bootstrap,html for the designing of the webpage.
 In the web application you need to select the following details and after filling the prerequisits required:
 
 Select Company,
